@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Pick RGB</title>
+
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <h1>Pick your RGB color</h1>
+  <section>
+    <article>
+      <label for="red" style="color: red;">(R) Red</label> <br>
+      <input type="range" name="red" id="redColor" min="0" max="255" value="0"><br>
+      <input type="text" class="redNum" size="5" disabled value="0">
+    </article>
+    <article>
+      <label for="red" style="color: green;">(G) Green</label> <br>
+      <input type="range" name="green" id="greenColor" min="0" max="255" value="0"><br>
+      <input type="text" class="greenNum" size="5" disabled value="0">
+    </article>
+    <article>
+      <label for="blue" style="color: blue;">(B) Blue</label> <br>
+      <input type="range" name="blue" id="blueColor" min="0" max="255" value="0"> <br>
+      <input type="text" class="blueNum" size="5" disabled value="0">
+    </article>
+  </section>
+
+
+  <div id="firstDiv">
+
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+
+</html>
