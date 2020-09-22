@@ -33,3 +33,17 @@ div {
   -moz-box-shadow: 12px 19px 8px -3px rgba(0,0,0,0.18);
   box-shadow: 12px 19px 8px -3px rgba(0,0,0,0.18);
 }
+
+@media (max-width: 400px) {
+  body {
+    font-size: 10px;
+  }
+  article{
+    margin-top: 2em;
+  }
+  div{
+    width: 90px;
+    height: 90px;
+    margin: 2em 3em;
+  }
+}
