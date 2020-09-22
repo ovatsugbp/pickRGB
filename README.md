@@ -14,7 +14,7 @@
 ## You can check below:
 > https://unruffled-haibt-f9696b.netlify.app
 
-### Autor
+### Author
 ---
  <img style="border-radius: 50%" src="https://media-exp1.licdn.com/dms/image/C4D03AQFGArHmUdDvAg/profile-displayphoto-shrink_200_200/0?e=1606348800&v=beta&t=f-K1hQhWtRmNeltBBYmuvqnh6cqvIRDj4WkH1vlK53o" width="100px;" alt=""/>
  <br />
