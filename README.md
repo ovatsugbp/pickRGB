@@ -12,9 +12,6 @@
 </h1>
 
 ## You can check below:
-
-/* Aqui estamos usando a tag Quotes do markdown*/
-
 > https://unruffled-haibt-f9696b.netlify.app
 
 ### Autor
