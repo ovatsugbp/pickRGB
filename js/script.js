@@ -9,17 +9,17 @@ function colors() {
   var inputBlue = document.querySelector('.blueNum');
 
 
-  red.addEventListener('change', (event) => {
+  red.addEventListener('input', (event) => {
     inputRed.value = event.target.value;
     backgroundColor();
   });
 
-  green.addEventListener('change', (event) => {
+  green.addEventListener('input', (event) => {
     inputGreen.value = event.target.value;
     backgroundColor();
   });
 
-  blue.addEventListener('change', (event) => {
+  blue.addEventListener('input', (event) => {
     inputBlue.value = event.target.value;
     backgroundColor();
   });
